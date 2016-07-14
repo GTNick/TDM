@@ -1,0 +1,13 @@
+name: TDM
+author: CrazierDevotee0
+version: 1.0
+description: creat a team and play online againts other teams for power 
+api:
+- 1.14.2
+- 2.0.0
+main: TDM\Main
+commands:
+    Team:
+        usage: "/Team fro more team info"
+        description: "many things"
+        permission: tdm
